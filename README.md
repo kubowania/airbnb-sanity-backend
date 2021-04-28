@@ -1,7 +1,7 @@
 # AirBnb Sanity.io Backend
 
 
-This repository is to support my tutorial on how to build an AirBnb Clone with strucutred content using Sanity.io and Next.js. View the full tutorial [here](https://youtu.be/mx1dbMzd3tU)
+This repository is to support my tutorial on how to build an AirBnb Clone with strucutred content using Sanity.io and Next.js. View the full tutorial [here](https://youtu.be/mx1dbMzd3tU) 📺
 
 In this video I show you how to build an AirBnB Clone, as well as manage all your data visually. We are going to build a backend for the app that defines the relationships between our data thanks to Schemas and Types, and add data using Sanity Studio ( https://www.sanity.io/ )
 
